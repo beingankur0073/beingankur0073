@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Ankur Mukherjee
 
 I'm a software developer specializing in building user-centric web applications with a focus on performance and clean design.
 
@@ -14,6 +14,6 @@ I'm a software developer specializing in building user-centric web applications 
 
 ## Contact
 
-- Email: [your.email@example.com]
+- Email: [mukherjeeankur0073@example.com]
 - LinkedIn: [linkedin.com/in/yourprofile]
 
